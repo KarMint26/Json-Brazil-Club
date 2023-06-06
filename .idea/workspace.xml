@@ -4,27 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="3c15ae08-36fa-4cff-b68b-36e6cbed9f4e" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/cn_hutool_json.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/google_code_gson.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Java-JSON-ClubBrazil.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/gson-2.10.1.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/hppc-0.4.2.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/hutool-core-5.8.9.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/hutool-json-5.8.9.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/jackson-annotations-2.2.2.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/jackson-core-2.2.2.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/jackson-databind-2.2.2.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/jackson-datatype-hppc-2.2.2.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/JSON/brazil_club.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ModelAPI.java" afterDir="false" />
-    </list>
+    <list default="true" id="3c15ae08-36fa-4cff-b68b-36e6cbed9f4e" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
