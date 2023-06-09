@@ -13,10 +13,10 @@ public class GetDataFromQuery {
         try {
             BufferedReader bufferedReader = new BufferedReader(new FileReader(fileName));
             StringBuilder stringBuilder = new StringBuilder();
-            String line;
+            String jsonRead;
 
-            while ((line = bufferedReader.readLine()) != null) {
-                stringBuilder.append(line);
+            while ((jsonRead = bufferedReader.readLine()) != null) {
+                stringBuilder.append(jsonRead);
             }
 
             bufferedReader.close();
